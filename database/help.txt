@@ -1,0 +1,2 @@
+https://roytuts.com/codeigniter-mysql-stored-procedure-crud-example/
+https://github.com/roytuts/codeigniter/blob/master/codeIgniter-mysql-stored-procedure-crud/codeigniter-stored-procedure-crud.sql
